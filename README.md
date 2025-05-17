@@ -1,1 +1,1 @@
-# Project_002
+# React Query + Zod Starter Template
